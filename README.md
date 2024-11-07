@@ -4,7 +4,7 @@ This program is designed to add multiple users at the same time using an input f
 This creates new users with specified inputs then changes the password after creation. 
 
 ## Program Operation
-###WARNING RUNNING THIS WILL CHANGE THE SYSTEM PERMISSIONS FOR A LARGE NUMBER OF USERS. TAKE CAUTION
+**WARNING RUNNING THIS WILL CHANGE THE SYSTEM PERMISSIONS FOR A LARGE NUMBER OF USERS. TAKE CAUTION**
 
 1. Copy the file into your envirnment and open the input file in your editor of choice and update it with all the user info.
 2. Run the file with the system commands commented out and the print statements active to make sure everything is working as intented.
