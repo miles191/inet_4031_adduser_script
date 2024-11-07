@@ -1,2 +1,2 @@
-# inet_4031_adduser_script
+# Python Adduser Script
 INET 4031 Add User Script
